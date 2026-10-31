@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_themed_icons" />
+    <foreground>
+        <bitmap
+            android:src="@drawable/ic_io_github_magisk317_mipush_mono"
+            android:tint="@color/fg_themed_icons" />
+    </foreground>
+    <monochrome android:drawable="@drawable/ic_io_github_magisk317_mipush_mono" />
+</adaptive-icon>

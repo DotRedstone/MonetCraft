@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <category title="Addons" />
+    <item drawable="ic_com_game2048" />
+    <item drawable="ic_com_chunqiuativecheck" />
+    <item drawable="ic_com_xunlei_tdmcloud" />
+    <item drawable="ic_com_box_app" />
+    <item drawable="ic_io_github_xiaotong6666_fusehide" />
+    <item drawable="ic_com_hidethanox_module" />
+    <item drawable="ic_com_bscotch_hmd" />
+    <item drawable="ic_com_lantu_mobilecampus_qhu" />
+    <item drawable="ic_com_zhenxi_hunter" />
+    <item drawable="ic_io_github_huskydg_memorydetector" />
+    <item drawable="ic_io_github_magisk317_mipush" />
+    <item drawable="ic_com_sukisu_ultra" />
+    <item drawable="ic_com_rustylake_thepastwithin" />
+    <item drawable="ic_com_sunshine_freeform" />
+    <item drawable="ic_io_sunshine0523_sidebar" />
+    <item drawable="ic_com_bilibili_innocent_lab_xposedmodule" />
+    <item drawable="ic_com_xuetangx_ykt" />
+    <item drawable="ic_io_github_linx3141_timmonet" />
+    <item drawable="ic_one_dot_rex" />
+    <item drawable="ic_io_github_dotredstone_wematerial" />
+</resources>

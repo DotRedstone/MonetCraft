@@ -1,0 +1,202 @@
+[
+  {
+    "pkg": "com.game2048",
+    "activity": "com.game2048.MainActivity",
+    "name": "2048",
+    "drawable": "ic_com_game2048",
+    "normal_png": "output/ic_com_game2048_normal_512.png",
+    "dark_png": "output/ic_com_game2048_dark_512.png",
+    "fg_png": "output/ic_com_game2048_fg_512.png",
+    "mono_png": "output/ic_com_game2048_mono_512.png"
+  },
+  {
+    "pkg": "com.chunqiunativecheck",
+    "activity": "com.chunqiunativecheck.SplashActivity",
+    "name": "春秋检测",
+    "drawable": "ic_com_chunqiuativecheck",
+    "normal_png": "output/ic_com_chunqiuativecheck_normal_512.png",
+    "dark_png": "output/ic_com_chunqiuativecheck_dark_512.png",
+    "fg_png": "output/ic_com_chunqiuativecheck_fg_512.png",
+    "mono_png": "output/ic_com_chunqiuativecheck_mono_512.png"
+  },
+  {
+    "pkg": "com.xunlei.tdmcloud",
+    "activity": "com.xunlei.downloadprovider.launch.LaunchActivity",
+    "name": "迅雷云盘",
+    "drawable": "ic_com_xunlei_tdmcloud",
+    "normal_png": "output/ic_com_xunlei_tdmcloud_normal_512.png",
+    "dark_png": "output/ic_com_xunlei_tdmcloud_dark_512.png",
+    "fg_png": "output/ic_com_xunlei_tdmcloud_fg_512.png",
+    "mono_png": "output/ic_com_xunlei_tdmcloud_mono_512.png"
+  },
+  {
+    "pkg": "com.box.app",
+    "activity": "com.box.app.MainActivity",
+    "name": "Box",
+    "drawable": "ic_com_box_app",
+    "normal_png": "output/ic_com_box_app_normal_512.png",
+    "dark_png": "output/ic_com_box_app_dark_512.png",
+    "fg_png": "output/ic_com_box_app_fg_512.png",
+    "mono_png": "output/ic_com_box_app_mono_512.png"
+  },
+  {
+    "pkg": "io.github.xiaotong6666.fusehide",
+    "activity": "io.github.xiaotong6666.fusehide.ui.app.MainActivity",
+    "name": "FuseHide",
+    "drawable": "ic_io_github_xiaotong6666_fusehide",
+    "normal_png": "output/ic_io_github_xiaotong6666_fusehide_normal_512.png",
+    "dark_png": "output/ic_io_github_xiaotong6666_fusehide_dark_512.png",
+    "fg_png": "output/ic_io_github_xiaotong6666_fusehide_fg_512.png",
+    "mono_png": "output/ic_io_github_xiaotong6666_fusehide_mono_512.png"
+  },
+  {
+    "pkg": "com.hidethanox.module",
+    "activity": "com.hidethanox.module.MainActivity",
+    "name": "Hide Thanox",
+    "drawable": "ic_com_hidethanox_module",
+    "normal_png": "output/ic_com_hidethanox_module_normal_512.png",
+    "dark_png": "output/ic_com_hidethanox_module_dark_512.png",
+    "fg_png": "output/ic_com_hidethanox_module_fg_512.png",
+    "mono_png": "output/ic_com_hidethanox_module_mono_512.png"
+  },
+  {
+    "pkg": "com.bscotch.hmd",
+    "activity": "com.bscotch.hmd.RunnerActivity",
+    "name": "How Many Dudes",
+    "drawable": "ic_com_bscotch_hmd",
+    "normal_png": "output/ic_com_bscotch_hmd_normal_512.png",
+    "dark_png": "output/ic_com_bscotch_hmd_dark_512.png",
+    "fg_png": "output/ic_com_bscotch_hmd_fg_512.png",
+    "mono_png": "output/ic_com_bscotch_hmd_mono_512.png"
+  },
+  {
+    "pkg": "com.lantu.MobileCampus.qhu",
+    "activity": "com.supwisdom.superapp.ui.activity.MainActivity",
+    "name": "掌上青大",
+    "drawable": "ic_com_lantu_mobilecampus_qhu",
+    "normal_png": "output/ic_com_lantu_mobilecampus_qhu_normal_512.png",
+    "dark_png": "output/ic_com_lantu_mobilecampus_qhu_dark_512.png",
+    "fg_png": "output/ic_com_lantu_mobilecampus_qhu_fg_512.png",
+    "mono_png": "output/ic_com_lantu_mobilecampus_qhu_mono_512.png"
+  },
+  {
+    "pkg": "com.zhenxi.hunter",
+    "activity": "com.zhenxi.hunter.MainActivity",
+    "name": "Hunter",
+    "drawable": "ic_com_zhenxi_hunter",
+    "normal_png": "output/ic_com_zhenxi_hunter_normal_512.png",
+    "dark_png": "output/ic_com_zhenxi_hunter_dark_512.png",
+    "fg_png": "output/ic_com_zhenxi_hunter_fg_512.png",
+    "mono_png": "output/ic_com_zhenxi_hunter_mono_512.png"
+  },
+  {
+    "pkg": "io.github.huskydg.memorydetector",
+    "activity": "io.github.huskydg.memorydetector.MainActivity",
+    "name": "Memory Detector",
+    "drawable": "ic_io_github_huskydg_memorydetector",
+    "normal_png": "output/ic_io_github_huskydg_memorydetector_normal_512.png",
+    "dark_png": "output/ic_io_github_huskydg_memorydetector_dark_512.png",
+    "fg_png": "output/ic_io_github_huskydg_memorydetector_fg_512.png",
+    "mono_png": "output/ic_io_github_huskydg_memorydetector_mono_512.png"
+  },
+  {
+    "pkg": "io.github.magisk317.mipush",
+    "activity": "io.github.magisk317.mipush.MainActivity",
+    "name": "MiPush 管理器",
+    "drawable": "ic_io_github_magisk317_mipush",
+    "normal_png": "output/ic_io_github_magisk317_mipush_normal_512.png",
+    "dark_png": "output/ic_io_github_magisk317_mipush_dark_512.png",
+    "fg_png": "output/ic_io_github_magisk317_mipush_fg_512.png",
+    "mono_png": "output/ic_io_github_magisk317_mipush_mono_512.png"
+  },
+  {
+    "pkg": "com.sukisu.ultra",
+    "activity": ".ui.MainActivityAlias",
+    "name": "SukiSU",
+    "drawable": "ic_com_sukisu_ultra",
+    "normal_png": "output/ic_com_sukisu_ultra_normal_512.png",
+    "dark_png": "output/ic_com_sukisu_ultra_dark_512.png",
+    "fg_png": "output/ic_com_sukisu_ultra_fg_512.png",
+    "mono_png": "output/ic_com_sukisu_ultra_mono_512.png"
+  },
+  {
+    "pkg": "com.RustyLake.ThePastWithin",
+    "activity": "com.RustyLake.ThePastWithin.MainActivity",
+    "name": "The Past Within",
+    "drawable": "ic_com_rustylake_thepastwithin",
+    "normal_png": "output/ic_com_rustylake_thepastwithin_normal_512.png",
+    "dark_png": "output/ic_com_rustylake_thepastwithin_dark_512.png",
+    "fg_png": "output/ic_com_rustylake_thepastwithin_fg_512.png",
+    "mono_png": "output/ic_com_rustylake_thepastwithin_mono_512.png"
+  },
+  {
+    "pkg": "com.sunshine.freeform",
+    "activity": "com.sunshine.freeform.activity.splash.SplashActivity",
+    "name": "米窗",
+    "drawable": "ic_com_sunshine_freeform",
+    "normal_png": "output/ic_com_sunshine_freeform_normal_512.png",
+    "dark_png": "output/ic_com_sunshine_freeform_dark_512.png",
+    "fg_png": "output/ic_com_sunshine_freeform_fg_512.png",
+    "mono_png": "output/ic_com_sunshine_freeform_mono_512.png"
+  },
+  {
+    "pkg": "io.sunshine0523.sidebar",
+    "activity": "io.sunshine0523.sidebar.MainActivity",
+    "name": "米窗 - 侧边栏",
+    "drawable": "ic_io_sunshine0523_sidebar",
+    "normal_png": "output/ic_io_sunshine0523_sidebar_normal_512.png",
+    "dark_png": "output/ic_io_sunshine0523_sidebar_dark_512.png",
+    "fg_png": "output/ic_io_sunshine0523_sidebar_fg_512.png",
+    "mono_png": "output/ic_io_sunshine0523_sidebar_mono_512.png"
+  },
+  {
+    "pkg": "com.Bilibili_Innocent_Lab.xposedmodule",
+    "activity": "com.Bilibili_Innocent_Lab.xposedmodule.Home",
+    "name": "Bilibili_Innocent_Lab",
+    "drawable": "ic_com_bilibili_innocent_lab_xposedmodule",
+    "normal_png": "output/ic_com_bilibili_innocent_lab_xposedmodule_normal_512.png",
+    "dark_png": "output/ic_com_bilibili_innocent_lab_xposedmodule_dark_512.png",
+    "fg_png": "output/ic_com_bilibili_innocent_lab_xposedmodule_fg_512.png",
+    "mono_png": "output/ic_com_bilibili_innocent_lab_xposedmodule_mono_512.png"
+  },
+  {
+    "pkg": "com.xuetangx.ykt",
+    "activity": "com.xuetangx.ykt.MainActivity",
+    "name": "雨课堂",
+    "drawable": "ic_com_xuetangx_ykt",
+    "normal_png": "output/ic_com_xuetangx_ykt_normal_512.png",
+    "dark_png": "output/ic_com_xuetangx_ykt_dark_512.png",
+    "fg_png": "output/ic_com_xuetangx_ykt_fg_512.png",
+    "mono_png": "output/ic_com_xuetangx_ykt_mono_512.png"
+  },
+  {
+    "pkg": "io.github.linx3141.timmonet",
+    "activity": "com.timmonet.SettingsActivity",
+    "name": "TIM 莫奈取色",
+    "drawable": "ic_io_github_linx3141_timmonet",
+    "normal_png": "output/ic_io_github_linx3141_timmonet_normal_512.png",
+    "dark_png": "output/ic_io_github_linx3141_timmonet_dark_512.png",
+    "fg_png": "output/ic_io_github_linx3141_timmonet_fg_512.png",
+    "mono_png": "output/ic_io_github_linx3141_timmonet_mono_512.png"
+  },
+  {
+    "pkg": "one.dot.rex",
+    "activity": "one.dot.rex.LauncherActivityAlias",
+    "name": "Re:X",
+    "drawable": "ic_one_dot_rex",
+    "normal_png": "output/ic_one_dot_rex_normal_512.png",
+    "dark_png": "output/ic_one_dot_rex_dark_512.png",
+    "fg_png": "output/ic_one_dot_rex_fg_512.png",
+    "mono_png": "output/ic_one_dot_rex_mono_512.png"
+  },
+  {
+    "pkg": "io.github.dotredstone.wematerial",
+    "activity": "io.github.dotredstone.wematerial.settings.SettingsActivity",
+    "name": "WeMaterial",
+    "drawable": "ic_io_github_dotredstone_wematerial",
+    "normal_png": "output/ic_io_github_dotredstone_wematerial_normal_512.png",
+    "dark_png": "output/ic_io_github_dotredstone_wematerial_dark_512.png",
+    "fg_png": "output/ic_io_github_dotredstone_wematerial_fg_512.png",
+    "mono_png": "output/ic_io_github_dotredstone_wematerial_mono_512.png"
+  }
+]

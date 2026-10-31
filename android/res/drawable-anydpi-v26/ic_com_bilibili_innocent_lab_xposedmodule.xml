@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_themed_icons" />
+    <foreground>
+        <bitmap
+            android:src="@drawable/ic_com_bilibili_innocent_lab_xposedmodule_mono"
+            android:tint="@color/fg_themed_icons" />
+    </foreground>
+    <monochrome android:drawable="@drawable/ic_com_bilibili_innocent_lab_xposedmodule_mono" />
+</adaptive-icon>

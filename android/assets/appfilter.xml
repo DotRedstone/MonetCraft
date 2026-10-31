@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item component="ComponentInfo{com.game2048/com.game2048.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.game2048/.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.game2048/com.game2048.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.game2048/.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.2048/.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.2048/com.estoty.2048.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.2048/com.estoty.2048.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.2048/.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.game2048/.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.game2048/com.estoty.game2048.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.game2048/com.estoty.game2048.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.estoty.game2048/.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.uberspot.a2048/.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.uberspot.a2048/.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.original2048/.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.original2048/com.androbaby.original2048.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.original2048/com.androbaby.original2048.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.original2048/.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.game2048/.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.game2048/com.androbaby.game2048.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.game2048/com.androbaby.game2048.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.androbaby.game2048/.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.s2apps.game2048/.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.s2apps.game2048/com.s2apps.game2048.MainActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.s2apps.game2048/com.s2apps.game2048.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.s2apps.game2048/.AppActivity}" drawable="ic_com_game2048" name="2048" />
+    <item component="ComponentInfo{com.chunqiunativecheck/com.chunqiunativecheck.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiunativecheck/.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiunativecheck/com.chunqiunativecheck.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiunativecheck/.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiunativecheck/.ui.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiuativecheck/.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiuativecheck/com.chunqiuativecheck.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiuativecheck/.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiuativecheck/com.chunqiuativecheck.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiuativecheck/.ui.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiu.nativecheck/.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiu.nativecheck/com.chunqiu.nativecheck.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiu.nativecheck/.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiu.nativecheck/com.chunqiu.nativecheck.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiu.nativecheck/.ui.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiudetector/.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiudetector/com.chunqiudetector.SplashActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiudetector/.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiudetector/com.chunqiudetector.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.chunqiudetector/.ui.MainActivity}" drawable="ic_com_chunqiuativecheck" name="春秋检测" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/com.xunlei.downloadprovider.launch.LaunchActivity}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/.com.xunlei.downloadprovider.launch.LaunchActivity}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/.LaunchActivity}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/com.xunlei.tdmcloud.MainActivity}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/.MainActivity}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/.launch.LaunchActivity}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/.launchDefault}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.xunlei.tdmcloud/com.xunlei.tdmcloud.launchDefault}" drawable="ic_com_xunlei_tdmcloud" name="迅雷云盘" />
+    <item component="ComponentInfo{com.box.app/com.box.app.MainActivity}" drawable="ic_com_box_app" name="Box" />
+    <item component="ComponentInfo{com.box.app/.MainActivity}" drawable="ic_com_box_app" name="Box" />
+    <item component="ComponentInfo{io.github.xiaotong6666.fusehide/io.github.xiaotong6666.fusehide.ui.app.MainActivity}" drawable="ic_io_github_xiaotong6666_fusehide" name="FuseHide" />
+    <item component="ComponentInfo{io.github.xiaotong6666.fusehide/.ui.app.MainActivity}" drawable="ic_io_github_xiaotong6666_fusehide" name="FuseHide" />
+    <item component="ComponentInfo{io.github.xiaotong6666.fusehide/.MainActivity}" drawable="ic_io_github_xiaotong6666_fusehide" name="FuseHide" />
+    <item component="ComponentInfo{io.github.xiaotong6666.fusehide/io.github.xiaotong6666.fusehide.MainActivity}" drawable="ic_io_github_xiaotong6666_fusehide" name="FuseHide" />
+    <item component="ComponentInfo{com.hidethanox.module/com.hidethanox.module.MainActivity}" drawable="ic_com_hidethanox_module" name="Hide Thanox" />
+    <item component="ComponentInfo{com.hidethanox.module/.MainActivity}" drawable="ic_com_hidethanox_module" name="Hide Thanox" />
+    <item component="ComponentInfo{com.bscotch.hmd/com.bscotch.hmd.RunnerActivity}" drawable="ic_com_bscotch_hmd" name="How Many Dudes" />
+    <item component="ComponentInfo{com.bscotch.hmd/.RunnerActivity}" drawable="ic_com_bscotch_hmd" name="How Many Dudes" />
+    <item component="ComponentInfo{com.bscotch.hmd/com.bscotch.hmd.MainActivity}" drawable="ic_com_bscotch_hmd" name="How Many Dudes" />
+    <item component="ComponentInfo{com.bscotch.hmd/.MainActivity}" drawable="ic_com_bscotch_hmd" name="How Many Dudes" />
+    <item component="ComponentInfo{com.lantu.MobileCampus.qhu/com.supwisdom.superapp.ui.activity.MainActivity}" drawable="ic_com_lantu_mobilecampus_qhu" name="掌上青大" />
+    <item component="ComponentInfo{com.lantu.MobileCampus.qhu/.com.supwisdom.superapp.ui.activity.MainActivity}" drawable="ic_com_lantu_mobilecampus_qhu" name="掌上青大" />
+    <item component="ComponentInfo{com.lantu.MobileCampus.qhu/.MainActivity}" drawable="ic_com_lantu_mobilecampus_qhu" name="掌上青大" />
+    <item component="ComponentInfo{com.lantu.MobileCampus.qhu/com.lantu.MobileCampus.qhu.MainActivity}" drawable="ic_com_lantu_mobilecampus_qhu" name="掌上青大" />
+    <item component="ComponentInfo{com.zhenxi.hunter/com.zhenxi.hunter.MainActivity}" drawable="ic_com_zhenxi_hunter" name="Hunter" />
+    <item component="ComponentInfo{com.zhenxi.hunter/.MainActivity}" drawable="ic_com_zhenxi_hunter" name="Hunter" />
+    <item component="ComponentInfo{io.github.huskydg.memorydetector/io.github.huskydg.memorydetector.MainActivity}" drawable="ic_io_github_huskydg_memorydetector" name="Memory Detector" />
+    <item component="ComponentInfo{io.github.huskydg.memorydetector/.MainActivity}" drawable="ic_io_github_huskydg_memorydetector" name="Memory Detector" />
+    <item component="ComponentInfo{io.github.magisk317.mipush/io.github.magisk317.mipush.MainActivity}" drawable="ic_io_github_magisk317_mipush" name="MiPush 管理器" />
+    <item component="ComponentInfo{io.github.magisk317.mipush/.MainActivity}" drawable="ic_io_github_magisk317_mipush" name="MiPush 管理器" />
+    <item component="ComponentInfo{io.github.magisk317.mipush/.app.MainActivityDefault}" drawable="ic_io_github_magisk317_mipush" name="MiPush 管理器" />
+    <item component="ComponentInfo{io.github.magisk317.mipush/io.github.magisk317.mipush.app.MainActivityDefault}" drawable="ic_io_github_magisk317_mipush" name="MiPush 管理器" />
+    <item component="ComponentInfo{com.sukisu.ultra/.ui.MainActivityAlias}" drawable="ic_com_sukisu_ultra" name="SukiSU" />
+    <item component="ComponentInfo{com.sukisu.ultra/.MainActivityAlias}" drawable="ic_com_sukisu_ultra" name="SukiSU" />
+    <item component="ComponentInfo{com.sukisu.ultra/com.sukisu.ultra.MainActivity}" drawable="ic_com_sukisu_ultra" name="SukiSU" />
+    <item component="ComponentInfo{com.sukisu.ultra/.MainActivity}" drawable="ic_com_sukisu_ultra" name="SukiSU" />
+    <item component="ComponentInfo{com.sukisu.ultra/.ui.MainActivity}" drawable="ic_com_sukisu_ultra" name="SukiSU" />
+    <item component="ComponentInfo{com.sukisu.ultra/com.sukisu.ultra.ui.MainActivity}" drawable="ic_com_sukisu_ultra" name="SukiSU" />
+    <item component="ComponentInfo{com.sukisu.ultra/com.sukisu.ultra.ui.MainActivityAlias}" drawable="ic_com_sukisu_ultra" name="SukiSU" />
+    <item component="ComponentInfo{com.RustyLake.ThePastWithin/com.RustyLake.ThePastWithin.MainActivity}" drawable="ic_com_rustylake_thepastwithin" name="The Past Within" />
+    <item component="ComponentInfo{com.RustyLake.ThePastWithin/.MainActivity}" drawable="ic_com_rustylake_thepastwithin" name="The Past Within" />
+    <item component="ComponentInfo{com.RustyLake.ThePastWithin/com.unity3d.player.UnityPlayerActivity}" drawable="ic_com_rustylake_thepastwithin" name="The Past Within" />
+    <item component="ComponentInfo{com.RustyLake.ThePastWithin/.UnityPlayerActivity}" drawable="ic_com_rustylake_thepastwithin" name="The Past Within" />
+    <item component="ComponentInfo{com.sunshine.freeform/com.sunshine.freeform.activity.splash.SplashActivity}" drawable="ic_com_sunshine_freeform" name="米窗" />
+    <item component="ComponentInfo{com.sunshine.freeform/.activity.splash.SplashActivity}" drawable="ic_com_sunshine_freeform" name="米窗" />
+    <item component="ComponentInfo{com.sunshine.freeform/.SplashActivity}" drawable="ic_com_sunshine_freeform" name="米窗" />
+    <item component="ComponentInfo{com.sunshine.freeform/com.sunshine.freeform.MainActivity}" drawable="ic_com_sunshine_freeform" name="米窗" />
+    <item component="ComponentInfo{com.sunshine.freeform/.MainActivity}" drawable="ic_com_sunshine_freeform" name="米窗" />
+    <item component="ComponentInfo{com.sunshine.freeform/.ui.main.MainActivity}" drawable="ic_com_sunshine_freeform" name="米窗" />
+    <item component="ComponentInfo{com.sunshine.freeform/com.sunshine.freeform.ui.main.MainActivity}" drawable="ic_com_sunshine_freeform" name="米窗" />
+    <item component="ComponentInfo{io.sunshine0523.sidebar/io.sunshine0523.sidebar.MainActivity}" drawable="ic_io_sunshine0523_sidebar" name="米窗 - 侧边栏" />
+    <item component="ComponentInfo{io.sunshine0523.sidebar/.MainActivity}" drawable="ic_io_sunshine0523_sidebar" name="米窗 - 侧边栏" />
+    <item component="ComponentInfo{io.sunshine0523.sidebar/.ui.main.MainActivity}" drawable="ic_io_sunshine0523_sidebar" name="米窗 - 侧边栏" />
+    <item component="ComponentInfo{io.sunshine0523.sidebar/io.sunshine0523.sidebar.ui.main.MainActivity}" drawable="ic_io_sunshine0523_sidebar" name="米窗 - 侧边栏" />
+    <item component="ComponentInfo{com.Bilibili_Innocent_Lab.xposedmodule/com.Bilibili_Innocent_Lab.xposedmodule.Home}" drawable="ic_com_bilibili_innocent_lab_xposedmodule" name="Bilibili_Innocent_Lab" />
+    <item component="ComponentInfo{com.Bilibili_Innocent_Lab.xposedmodule/.Home}" drawable="ic_com_bilibili_innocent_lab_xposedmodule" name="Bilibili_Innocent_Lab" />
+    <item component="ComponentInfo{com.Bilibili_Innocent_Lab.xposedmodule/com.Bilibili_Innocent_Lab.xposedmodule.MainActivity}" drawable="ic_com_bilibili_innocent_lab_xposedmodule" name="Bilibili_Innocent_Lab" />
+    <item component="ComponentInfo{com.Bilibili_Innocent_Lab.xposedmodule/.MainActivity}" drawable="ic_com_bilibili_innocent_lab_xposedmodule" name="Bilibili_Innocent_Lab" />
+    <item component="ComponentInfo{com.xuetangx.ykt/com.xuetangx.ykt.MainActivity}" drawable="ic_com_xuetangx_ykt" name="雨课堂" />
+    <item component="ComponentInfo{com.xuetangx.ykt/.MainActivity}" drawable="ic_com_xuetangx_ykt" name="雨课堂" />
+    <item component="ComponentInfo{io.github.linx3141.timmonet/com.timmonet.SettingsActivity}" drawable="ic_io_github_linx3141_timmonet" name="TIM 莫奈取色" />
+    <item component="ComponentInfo{io.github.linx3141.timmonet/.com.timmonet.SettingsActivity}" drawable="ic_io_github_linx3141_timmonet" name="TIM 莫奈取色" />
+    <item component="ComponentInfo{io.github.linx3141.timmonet/.SettingsActivity}" drawable="ic_io_github_linx3141_timmonet" name="TIM 莫奈取色" />
+    <item component="ComponentInfo{io.github.linx3141.timmonet/io.github.linx3141.timmonet.MainActivity}" drawable="ic_io_github_linx3141_timmonet" name="TIM 莫奈取色" />
+    <item component="ComponentInfo{io.github.linx3141.timmonet/.MainActivity}" drawable="ic_io_github_linx3141_timmonet" name="TIM 莫奈取色" />
+    <item component="ComponentInfo{one.dot.rex/one.dot.rex.LauncherActivityAlias}" drawable="ic_one_dot_rex" name="Re:X" />
+    <item component="ComponentInfo{one.dot.rex/.LauncherActivityAlias}" drawable="ic_one_dot_rex" name="Re:X" />
+    <item component="ComponentInfo{one.dot.rex/one.dot.rex.MainActivity}" drawable="ic_one_dot_rex" name="Re:X" />
+    <item component="ComponentInfo{one.dot.rex/.MainActivity}" drawable="ic_one_dot_rex" name="Re:X" />
+    <item component="ComponentInfo{io.github.dotredstone.wematerial/io.github.dotredstone.wematerial.settings.SettingsActivity}" drawable="ic_io_github_dotredstone_wematerial" name="WeMaterial" />
+    <item component="ComponentInfo{io.github.dotredstone.wematerial/.settings.SettingsActivity}" drawable="ic_io_github_dotredstone_wematerial" name="WeMaterial" />
+    <item component="ComponentInfo{io.github.dotredstone.wematerial/.SettingsActivity}" drawable="ic_io_github_dotredstone_wematerial" name="WeMaterial" />
+    <item component="ComponentInfo{io.github.dotredstone.wematerial/io.github.dotredstone.wematerial.MainActivity}" drawable="ic_io_github_dotredstone_wematerial" name="WeMaterial" />
+    <item component="ComponentInfo{io.github.dotredstone.wematerial/.MainActivity}" drawable="ic_io_github_dotredstone_wematerial" name="WeMaterial" />
+</resources>

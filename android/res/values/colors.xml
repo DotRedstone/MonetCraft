@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_themed_icons">#BAEAFF</color>
+    <color name="fg_themed_icons">#004D62</color>
+    <color name="ic_bg">#BAEAFF</color>
+    <color name="ic_fg">#004D62</color>
+    <color name="ic_bg_sky">#BAEAFF</color>
+    <color name="ic_launcher_bg">#BAEAFF</color>
+    <color name="ic_launcher_fg">#004D62</color>
+    <color name="ic_launcher_mono">#FFFFFF</color>
+</resources>
