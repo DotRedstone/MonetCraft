@@ -1,0 +1,41 @@
+name: Build Icon Pack APK
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install image & vector tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick potrace
+          # Install resvg binary (fast precompiled release, fallback to cargo if needed)
+          if curl -fsSL "https://github.com/linebender/resvg/releases/latest/download/resvg-linux-x86_64.tar.gz" -o /tmp/resvg.tar.gz; then
+            tar -xzf /tmp/resvg.tar.gz -C /tmp
+            sudo install -m 0755 /tmp/resvg /usr/local/bin/resvg
+          else
+            cargo install resvg --locked
+          fi
+
+      - name: Sync assets and build signed APK
+        env:
+          MONETCRAFT_KS_PASS: ${{ secrets.MONETCRAFT_KS_PASS || 'materialyou' }}
+        run: |
+          python3 craft.py build --sync
+          python3 craft.py verify
+
+      - name: Upload signed APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: monetcraft-addon-apk
+          path: output/*.apk
+          if-no-files-found: error

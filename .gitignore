@@ -4,8 +4,10 @@ __pycache__/
 *$py.class
 *.so
 
-# Build & packaging temporary files
+# Generated build & render artifacts (reproducible via `python3 craft.py build --sync`)
 build_tmp/
+output/
+android/res/
 *.idsig
 
 # System and editor files
