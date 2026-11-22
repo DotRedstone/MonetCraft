@@ -7,7 +7,22 @@
     "normal_png": "output/ic_com_game2048_normal_512.png",
     "dark_png": "output/ic_com_game2048_dark_512.png",
     "fg_png": "output/ic_com_game2048_fg_512.png",
-    "mono_png": "output/ic_com_game2048_mono_512.png"
+    "mono_png": "output/ic_com_game2048_mono_512.png",
+    "aliases": [
+      "com.game2048/.AppActivity",
+      "com.estoty.2048/.MainActivity",
+      "com.estoty.2048/.AppActivity",
+      "com.estoty.game2048/.MainActivity",
+      "com.estoty.game2048/.AppActivity",
+      "com.uberspot.a2048/.MainActivity",
+      "com.uberspot.a2048/.AppActivity",
+      "com.androbaby.original2048/.MainActivity",
+      "com.androbaby.original2048/.AppActivity",
+      "com.androbaby.game2048/.MainActivity",
+      "com.androbaby.game2048/.AppActivity",
+      "com.s2apps.game2048/.MainActivity",
+      "com.s2apps.game2048/.AppActivity"
+    ]
   },
   {
     "pkg": "com.chunqiunativecheck",
@@ -17,7 +32,19 @@
     "normal_png": "output/ic_com_chunqiuativecheck_normal_512.png",
     "dark_png": "output/ic_com_chunqiuativecheck_dark_512.png",
     "fg_png": "output/ic_com_chunqiuativecheck_fg_512.png",
-    "mono_png": "output/ic_com_chunqiuativecheck_mono_512.png"
+    "mono_png": "output/ic_com_chunqiuativecheck_mono_512.png",
+    "aliases": [
+      "com.chunqiunativecheck/.ui.MainActivity",
+      "com.chunqiuativecheck/.SplashActivity",
+      "com.chunqiuativecheck/.MainActivity",
+      "com.chunqiuativecheck/.ui.MainActivity",
+      "com.chunqiu.nativecheck/.SplashActivity",
+      "com.chunqiu.nativecheck/.MainActivity",
+      "com.chunqiu.nativecheck/.ui.MainActivity",
+      "com.chunqiudetector/.SplashActivity",
+      "com.chunqiudetector/.MainActivity",
+      "com.chunqiudetector/.ui.MainActivity"
+    ]
   },
   {
     "pkg": "com.xunlei.tdmcloud",
@@ -27,7 +54,11 @@
     "normal_png": "output/ic_com_xunlei_tdmcloud_normal_512.png",
     "dark_png": "output/ic_com_xunlei_tdmcloud_dark_512.png",
     "fg_png": "output/ic_com_xunlei_tdmcloud_fg_512.png",
-    "mono_png": "output/ic_com_xunlei_tdmcloud_mono_512.png"
+    "mono_png": "output/ic_com_xunlei_tdmcloud_mono_512.png",
+    "aliases": [
+      "com.xunlei.tdmcloud/.launch.LaunchActivity",
+      "com.xunlei.tdmcloud/.launchDefault"
+    ]
   },
   {
     "pkg": "com.box.app",
@@ -107,7 +138,10 @@
     "normal_png": "output/ic_io_github_magisk317_mipush_normal_512.png",
     "dark_png": "output/ic_io_github_magisk317_mipush_dark_512.png",
     "fg_png": "output/ic_io_github_magisk317_mipush_fg_512.png",
-    "mono_png": "output/ic_io_github_magisk317_mipush_mono_512.png"
+    "mono_png": "output/ic_io_github_magisk317_mipush_mono_512.png",
+    "aliases": [
+      "io.github.magisk317.mipush/.app.MainActivityDefault"
+    ]
   },
   {
     "pkg": "com.sukisu.ultra",
@@ -117,7 +151,11 @@
     "normal_png": "output/ic_com_sukisu_ultra_normal_512.png",
     "dark_png": "output/ic_com_sukisu_ultra_dark_512.png",
     "fg_png": "output/ic_com_sukisu_ultra_fg_512.png",
-    "mono_png": "output/ic_com_sukisu_ultra_mono_512.png"
+    "mono_png": "output/ic_com_sukisu_ultra_mono_512.png",
+    "aliases": [
+      "com.sukisu.ultra/.ui.MainActivity",
+      "com.sukisu.ultra/.ui.MainActivityAlias"
+    ]
   },
   {
     "pkg": "com.RustyLake.ThePastWithin",
@@ -127,7 +165,11 @@
     "normal_png": "output/ic_com_rustylake_thepastwithin_normal_512.png",
     "dark_png": "output/ic_com_rustylake_thepastwithin_dark_512.png",
     "fg_png": "output/ic_com_rustylake_thepastwithin_fg_512.png",
-    "mono_png": "output/ic_com_rustylake_thepastwithin_mono_512.png"
+    "mono_png": "output/ic_com_rustylake_thepastwithin_mono_512.png",
+    "aliases": [
+      "com.RustyLake.ThePastWithin/com.unity3d.player.UnityPlayerActivity",
+      "com.RustyLake.ThePastWithin/.UnityPlayerActivity"
+    ]
   },
   {
     "pkg": "com.sunshine.freeform",
@@ -137,7 +179,10 @@
     "normal_png": "output/ic_com_sunshine_freeform_normal_512.png",
     "dark_png": "output/ic_com_sunshine_freeform_dark_512.png",
     "fg_png": "output/ic_com_sunshine_freeform_fg_512.png",
-    "mono_png": "output/ic_com_sunshine_freeform_mono_512.png"
+    "mono_png": "output/ic_com_sunshine_freeform_mono_512.png",
+    "aliases": [
+      "com.sunshine.freeform/.ui.main.MainActivity"
+    ]
   },
   {
     "pkg": "io.sunshine0523.sidebar",
@@ -147,7 +192,10 @@
     "normal_png": "output/ic_io_sunshine0523_sidebar_normal_512.png",
     "dark_png": "output/ic_io_sunshine0523_sidebar_dark_512.png",
     "fg_png": "output/ic_io_sunshine0523_sidebar_fg_512.png",
-    "mono_png": "output/ic_io_sunshine0523_sidebar_mono_512.png"
+    "mono_png": "output/ic_io_sunshine0523_sidebar_mono_512.png",
+    "aliases": [
+      "io.sunshine0523.sidebar/.ui.main.MainActivity"
+    ]
   },
   {
     "pkg": "com.Bilibili_Innocent_Lab.xposedmodule",
@@ -198,5 +246,145 @@
     "dark_png": "output/ic_io_github_dotredstone_wematerial_dark_512.png",
     "fg_png": "output/ic_io_github_dotredstone_wematerial_fg_512.png",
     "mono_png": "output/ic_io_github_dotredstone_wematerial_mono_512.png"
+  },
+  {
+    "pkg": "app.operit",
+    "activity": "app.operit.MainActivity",
+    "name": "Operit2",
+    "drawable": "ic_app_operit",
+    "normal_png": "output/ic_app_operit_normal_512.png",
+    "dark_png": "output/ic_app_operit_dark_512.png",
+    "fg_png": "output/ic_app_operit_fg_512.png",
+    "mono_png": "output/ic_app_operit_mono_512.png"
+  },
+  {
+    "pkg": "cn.kuwo.player",
+    "activity": "cn.kuwo.player.activities.EntryActivity",
+    "name": "酷我音乐",
+    "drawable": "ic_cn_kuwo_player",
+    "normal_png": "output/ic_cn_kuwo_player_normal_512.png",
+    "dark_png": "output/ic_cn_kuwo_player_dark_512.png",
+    "fg_png": "output/ic_cn_kuwo_player_fg_512.png",
+    "mono_png": "output/ic_cn_kuwo_player_mono_512.png"
+  },
+  {
+    "pkg": "com.buildsession.betterYAMF",
+    "activity": "com.buildsession.betterYAMF.manager.ui.main.MainActivity",
+    "name": "BetterYAMF",
+    "drawable": "ic_com_buildsession_betteryamf",
+    "normal_png": "output/ic_com_buildsession_betteryamf_normal_512.png",
+    "dark_png": "output/ic_com_buildsession_betteryamf_dark_512.png",
+    "fg_png": "output/ic_com_buildsession_betteryamf_fg_512.png",
+    "mono_png": "output/ic_com_buildsession_betteryamf_mono_512.png"
+  },
+  {
+    "pkg": "com.chaomixian.vflow",
+    "activity": "com.chaomixian.vflow.ui.main.MainActivity",
+    "name": "vFlow",
+    "drawable": "ic_com_chaomixian_vflow",
+    "normal_png": "output/ic_com_chaomixian_vflow_normal_512.png",
+    "dark_png": "output/ic_com_chaomixian_vflow_dark_512.png",
+    "fg_png": "output/ic_com_chaomixian_vflow_fg_512.png",
+    "mono_png": "output/ic_com_chaomixian_vflow_mono_512.png"
+  },
+  {
+    "pkg": "com.chinamobile.mcloud",
+    "activity": "com.chinamobile.mcloud.client.logo.LogoActivity",
+    "name": "中国移动云盘",
+    "drawable": "ic_com_chinamobile_mcloud",
+    "normal_png": "output/ic_com_chinamobile_mcloud_normal_512.png",
+    "dark_png": "output/ic_com_chinamobile_mcloud_dark_512.png",
+    "fg_png": "output/ic_com_chinamobile_mcloud_fg_512.png",
+    "mono_png": "output/ic_com_chinamobile_mcloud_mono_512.png"
+  },
+  {
+    "pkg": "com.github.surfing",
+    "activity": "com.github.surfing.ui.LauncherActivity",
+    "name": "SurfingTile",
+    "drawable": "ic_com_github_surfing",
+    "normal_png": "output/ic_com_github_surfing_normal_512.png",
+    "dark_png": "output/ic_com_github_surfing_dark_512.png",
+    "fg_png": "output/ic_com_github_surfing_fg_512.png",
+    "mono_png": "output/ic_com_github_surfing_mono_512.png"
+  },
+  {
+    "pkg": "com.ikf.glearphone",
+    "activity": "com.ikf.earphone.activity.WelcomeActivity",
+    "name": "iKF",
+    "drawable": "ic_com_ikf_glearphone",
+    "normal_png": "output/ic_com_ikf_glearphone_normal_512.png",
+    "dark_png": "output/ic_com_ikf_glearphone_dark_512.png",
+    "fg_png": "output/ic_com_ikf_glearphone_fg_512.png",
+    "mono_png": "output/ic_com_ikf_glearphone_mono_512.png"
+  },
+  {
+    "pkg": "com.jdcloud.mt.smartrouter",
+    "activity": "com.jdcloud.mt.smartrouter.IconDefault",
+    "name": "京东云无线宝",
+    "drawable": "ic_com_jdcloud_mt_smartrouter",
+    "normal_png": "output/ic_com_jdcloud_mt_smartrouter_normal_512.png",
+    "dark_png": "output/ic_com_jdcloud_mt_smartrouter_dark_512.png",
+    "fg_png": "output/ic_com_jdcloud_mt_smartrouter_fg_512.png",
+    "mono_png": "output/ic_com_jdcloud_mt_smartrouter_mono_512.png"
+  },
+  {
+    "pkg": "com.lixingchi.appclone",
+    "activity": "com.lixingchi.appclone.MainActivity",
+    "name": "App Clone",
+    "drawable": "ic_com_lixingchi_appclone",
+    "normal_png": "output/ic_com_lixingchi_appclone_normal_512.png",
+    "dark_png": "output/ic_com_lixingchi_appclone_dark_512.png",
+    "fg_png": "output/ic_com_lixingchi_appclone_fg_512.png",
+    "mono_png": "output/ic_com_lixingchi_appclone_mono_512.png"
+  },
+  {
+    "pkg": "com.phoenix.read.oversea.gp",
+    "activity": "com.dragon.read.pages.splash.SplashActivity",
+    "name": "红果短剧",
+    "drawable": "ic_com_phoenix_read_oversea_gp",
+    "normal_png": "output/ic_com_phoenix_read_oversea_gp_normal_512.png",
+    "dark_png": "output/ic_com_phoenix_read_oversea_gp_dark_512.png",
+    "fg_png": "output/ic_com_phoenix_read_oversea_gp_fg_512.png",
+    "mono_png": "output/ic_com_phoenix_read_oversea_gp_mono_512.png"
+  },
+  {
+    "pkg": "com.roogoo.wap",
+    "activity": "com.roogoo.wap.MainActivity",
+    "name": "Roogoo",
+    "drawable": "ic_com_roogoo_wap",
+    "normal_png": "output/ic_com_roogoo_wap_normal_512.png",
+    "dark_png": "output/ic_com_roogoo_wap_dark_512.png",
+    "fg_png": "output/ic_com_roogoo_wap_fg_512.png",
+    "mono_png": "output/ic_com_roogoo_wap_mono_512.png"
+  },
+  {
+    "pkg": "com.xyhui",
+    "activity": "com.xyhui.start.PrivacyTipActivity",
+    "name": "PU口袋校园",
+    "drawable": "ic_com_xyhui",
+    "normal_png": "output/ic_com_xyhui_normal_512.png",
+    "dark_png": "output/ic_com_xyhui_dark_512.png",
+    "fg_png": "output/ic_com_xyhui_fg_512.png",
+    "mono_png": "output/ic_com_xyhui_mono_512.png"
+  },
+  {
+    "pkg": "io.github.ccch1mneyyy.dsh_app",
+    "activity": "io.github.ccch1mneyyy.dsh_app.LauncherMist",
+    "name": "DSH Go",
+    "drawable": "ic_io_github_ccch1mneyyy_dsh_app",
+    "normal_png": "output/ic_io_github_ccch1mneyyy_dsh_app_normal_512.png",
+    "dark_png": "output/ic_io_github_ccch1mneyyy_dsh_app_dark_512.png",
+    "fg_png": "output/ic_io_github_ccch1mneyyy_dsh_app_fg_512.png",
+    "mono_png": "output/ic_io_github_ccch1mneyyy_dsh_app_mono_512.png"
+  },
+  {
+    "pkg": "org.chromium.webapk.a8cf08b004289de50_v2",
+    "activity": "org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity",
+    "name": "Cursor",
+    "drawable": "ic_org_chromium_webapk_a8cf08b004289de50_v2",
+    "normal_png": "output/ic_org_chromium_webapk_a8cf08b004289de50_v2_normal_512.png",
+    "dark_png": "output/ic_org_chromium_webapk_a8cf08b004289de50_v2_dark_512.png",
+    "fg_png": "output/ic_org_chromium_webapk_a8cf08b004289de50_v2_fg_512.png",
+    "mono_png": "output/ic_org_chromium_webapk_a8cf08b004289de50_v2_mono_512.png"
   }
 ]

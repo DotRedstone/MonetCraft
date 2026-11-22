@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs><mask id="m_cur_outer"><rect x="0" y="0" width="1024" height="1024" fill="black"/><path d="M 512.0,300.0 L 695.6,406.0 L 695.6,618.0 L 512.0,724.0 L 328.4,618.0 L 328.4,406.0 Z" fill="white" stroke="white" stroke-width="24" stroke-linejoin="round"/><path d="M 352.7,420.0 L 671.3,420.0 L 512.0,696.0 L 512,512 Z" fill="black"/></mask></defs>
+  
+  <g mask="url(#m_cur_outer)"><polygon points="512.0,300.0 695.6,406.0 512,512 328.4,406.0" fill="#FFFFFF" fill-opacity="0.40"/><polygon points="695.6,406.0 695.6,618.0 512.0,724.0 512,512" fill="#FFFFFF" fill-opacity="0.65"/><polygon points="328.4,406.0 512,512 512.0,724.0 328.4,618.0" fill="#FFFFFF" fill-opacity="1.0"/></g>
+</svg>

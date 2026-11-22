@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs><mask id="m_clone2"><rect x="0" y="0" width="1024" height="1024" fill="white"/><rect x="454" y="454" width="258" height="258" rx="54" fill="black"/></mask></defs>
+  
+  <rect x="322" y="322" width="238" height="238" rx="48" fill="#FFFFFF" fill-opacity="0.40" mask="url(#m_clone2)"/><rect x="464" y="464" width="238" height="238" rx="48" fill="#FFFFFF" fill-opacity="1.0"/>
+</svg>
