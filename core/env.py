@@ -102,7 +102,7 @@ def find_android_jar():
     return "android.jar"
 
 # [Constants]
-CONVERT = find_tool("magick", alt_name="convert", nix_fallback="/nix/store/hpfmkrj5xl7v5ndwq4r76gn99cxfxhp3-imagemagick-7.1.2-24/bin/convert")
+CONVERT = find_tool("magick", alt_name="convert", nix_fallback="/nix/store/hpfmkrj5xl7v5ndwq4r76gn99cxfxhp3-imagemagick-7.1.2-24/bin/magick")
 POTRACE = find_tool("potrace", nix_fallback="/nix/store/45iabzr7g9xpxyx6vqp7zgibl81v04ac-potrace-1.16/bin/potrace")
 RESVG = find_tool("resvg", nix_fallback="/nix/store/31dqi84g55pm02y0p375khrcd4dqdbzi-resvg-0.47.0/bin/resvg")
 AAPT2 = find_aapt2()

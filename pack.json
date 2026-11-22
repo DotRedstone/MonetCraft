@@ -1,0 +1,41 @@
+{
+  "name": "MonetCraft",
+  "label": "Pix Material You Addon",
+  "package_name": "com.materialyou.honorofkings.addon",
+  "version_code": 1,
+  "version_name": "1.0",
+  "style": "monet",
+  "icon_size": 512,
+  "apk_output": "output/MaterialYou_Addon.apk",
+  "palette": {
+    "light_bg": "#BAEAFF",
+    "light_fg": "#004D62",
+    "light_fg_sec": "#416D7D",
+    "dark_bg": "#1D3138",
+    "dark_fg": "#BAEAFF",
+    "dark_fg_sec": "#7595A3"
+  },
+  "signing": {
+    "keystore": "tools/release.jks",
+    "alias": "addon",
+    "password_env": "MONETCRAFT_KS_PASS",
+    "default_password": "materialyou"
+  },
+  "host_gip_package": "com.richardluo.globalIconPack",
+  "gip_db_path": "/data/misc/com.richardluo.globalIconPack/iconPack.db",
+  "launcher_package": "com.google.android.apps.nexuslauncher",
+  "dynamic_apps": [
+    {
+      "name": "SukiSU",
+      "drawable": "ic_com_sukisu_ultra",
+      "intent_action": "android.intent.action.VIEW",
+      "intent_data": "ksu://webui",
+      "include_alias_suffix": true
+    }
+  ],
+  "visual_center_overrides": {
+    "ic_io_github_magisk317_mipush": [512.0, 518.0],
+    "ic_com_hidethanox_module": [512.0, 531.0],
+    "ic_com_sukisu_ultra": [512.0, 510.0]
+  }
+}
